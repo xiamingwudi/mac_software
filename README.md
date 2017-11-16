@@ -10,11 +10,11 @@
 - iTerm2                    # 登陆服务器操作和写代码
 - OmniGraffle               # 绘画流程图以及UML
 - Beyond Compare            # (代码)文件和目录对比
-- CHM Reader				# 查看chm格式的文档
-- atom/CLion/VS code		# 阅读各种代码文件利器
-- PDF Expert				# 阅读pdf文件
-- Mou						# 编写Markdown文本
-- VirtualBox				# 虚拟机
+- CHM Reader                # 查看chm格式的文档
+- atom/CLion/VS code        # 阅读各种代码文件利器
+- PDF Expert                # 阅读pdf文件
+- Mou                       # 编写Markdown文本
+- VirtualBox                # 虚拟机
 ```
 ***
 
