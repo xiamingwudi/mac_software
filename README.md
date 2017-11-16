@@ -18,9 +18,9 @@
 ***
 
 ## 系统软件
-- chrome					# 主力浏览器
-- BetterZip					# 压缩和解压
-- QQ/微信					# 主力聊天工具
+- chrome					\\ 主力浏览器
+- BetterZip					\\ 压缩和解压
+- QQ/微信					\\ 主力聊天工具
 - Android文件传输			# 连接安卓设备软件
 - Bartender 2				# 菜单栏优化
 - Dr. Cleaner Pro			# 清理垃圾和卸载软件
