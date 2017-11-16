@@ -3,6 +3,7 @@
 ***
 
 ## 工作软件
+```
 - Microsoft office 2017     # office全家桶
 - Xmind 8.0                 # 脑图
 - secureCRT 8.0.2           # 主要用来上传和下载文件
@@ -14,7 +15,7 @@
 - PDF Expert				# 阅读pdf文件
 - Mou						# 编写Markdown文本
 - VirtualBox				# 虚拟机
-
+```
 ***
 
 ## 系统软件
