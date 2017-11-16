@@ -3,12 +3,12 @@
 ***
 
 ## 工作软件
-- Microsoft office 2017		# office全家桶
-- Xmind 8.0					# 脑图
-- secureCRT 8.0.2			# 主要用来上传和下载文件
-- iTerm2					# 登陆服务器操作和写代码
-- OmniGraffle				# 绘画流程图以及UML
-- Beyond Compare			# (代码)文件和目录对比
+- Microsoft office 2017     # office全家桶
+- Xmind 8.0                 # 脑图
+- secureCRT 8.0.2           # 主要用来上传和下载文件
+- iTerm2                    # 登陆服务器操作和写代码
+- OmniGraffle               # 绘画流程图以及UML
+- Beyond Compare            # (代码)文件和目录对比
 - CHM Reader				# 查看chm格式的文档
 - atom/CLion/VS code		# 阅读各种代码文件利器
 - PDF Expert				# 阅读pdf文件
